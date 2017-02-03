@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="title_activity_level1_selection">Level1SelectionActivity</string>
+    <string name="title_activity_level2_selection">Level2SelectionActivity</string>
+    <string name="title_activity_level3_selection">Level3SelectionActivity</string>
+</resources>
